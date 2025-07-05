@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rodrigo Pereira
+# 👨🏻‍💻 Rodrigo Pereira
 
 **`Desenvolvedor Web`**
 
@@ -7,15 +7,7 @@ Chamo-me Rodrigo Pereira, tenho 22 anos e sou um desenvolvedor web , formado pel
 ### O que estou à procura:
 Atuar como desenvolvedor web  numa equipa colaborativa, onde eu possa crescer profissionalmente, contribuir com soluções eficientes e continuar aprendendo.
 ---
-<p>
-  <img 
-    src="https://img.icons8.com/glyph-neue/64/4D4D4D/phone-disconnected.png"  
-    width="30" 
-    style="vertical-align: middle; margin-right: 3px;" 
-  />
-  Contactos
-</p>
-
+  ### 📱 Contactos
 -  LinkedIn: https://www.linkedin.com/in/rodrigo-jordao-43ab70238/
 -  E-mail: rodrigoojordao66@gmail.com 
 -  Portfólio: 
