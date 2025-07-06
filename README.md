@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Chamo-me Rodrigo Pereira, tenho 22 anos e sou um desenvolvedor web , formado pela Master D, apaixonado por tecnologia. Estou à procura da minha primeira oportunidade profissional, com o objetivo de aplicar os meus conhecimentos em projetos reais e continuar a evoluir como programador.
+O meu nome é Rodrigo Pereira, tenho 22 anos e sou um desenvolvedor web, formado pela Master D. Sou apaixonado por tecnologia e estou atualmente à procura da minha primeira oportunidade profissional. O meu objetivo é aplicar os conhecimentos adquiridos em projetos reais e continuar a evoluir enquanto programador.
 ---
 ### O que estou à procura:
 Atuar como desenvolvedor web  numa equipa colaborativa, onde eu possa crescer profissionalmente, contribuir com soluções eficientes e continuar aprendendo.
