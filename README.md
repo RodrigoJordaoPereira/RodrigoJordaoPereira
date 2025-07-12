@@ -10,7 +10,7 @@ Atuar como desenvolvedor web  numa equipa colaborativa, onde eu possa crescer pr
   ### 📱 Contactos
 -  LinkedIn: https://www.linkedin.com/in/rodrigo-jordao-43ab70238/
 -  E-mail: rodrigoojordao66@gmail.com 
--  Portfólio: 
+
 
 
 ### 🤖 Tecnologia que domino
