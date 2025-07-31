@@ -23,14 +23,7 @@ Atuar como desenvolvedor web  numa equipa colaborativa, onde eu possa crescer pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="CSS" 
@@ -58,8 +51,8 @@ Atuar como desenvolvedor web  numa equipa colaborativa, onde eu possa crescer pr
 />
 <img 
 align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="myql" 
+    title="mysql"
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
