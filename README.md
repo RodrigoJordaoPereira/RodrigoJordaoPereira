@@ -8,7 +8,7 @@ O meu nome é Rodrigo Pereira, tenho 22 anos e sou um desenvolvedor web, formado
 Atuar como desenvolvedor web  numa equipa colaborativa, onde eu possa crescer profissionalmente, contribuir com soluções eficientes e continuar aprendendo.
 ---
   ### 📱 Contactos
--  LinkedIn: https://www.linkedin.com/in/rodrigo-jordao-43ab70238/
+-  LinkedIn: https://www.linkedin.com/in/rodrigo-jord%C3%A3o-pereira/
 -  E-mail: rodrigoojordao66@gmail.com
 -  Portefolio: https://rodrigojordaopereira.github.io/Portefolio/
 
