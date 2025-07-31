@@ -10,7 +10,7 @@ Atuar como desenvolvedor web  numa equipa colaborativa, onde eu possa crescer pr
   ### 📱 Contactos
 -  LinkedIn: https://www.linkedin.com/in/rodrigo-jord%C3%A3o-pereira/
 -  E-mail: rodrigoojordao66@gmail.com
--  Portefolio: https://rodrigojordaopereira.github.io/Portefolio/
+-  Portefólio: https://rodrigojordaopereira.github.io/Portefolio/
 
 
 
